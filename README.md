@@ -1,8 +1,10 @@
 # sulu-ecommerce-docs
+
 Sulu eCommerce Documentation
 
 ## Installation
-To contribute to sulu-documentation you first need to install [sphinx](http://sphinx-doc.org/install.html).
+
+To contribute to Sulu E-Commerce documentation you first need to install [sphinx](http://sphinx-doc.org/install.html).
 
 ```
     pip install sphinx
