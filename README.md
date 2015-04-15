@@ -1,19 +1,50 @@
 # sulu-ecommerce-docs
 
-Sulu eCommerce Documentation
+Sulu eCommerce Documentation for Developers
+
+## Requirements
+
+Make sure these requirements are installed:
+
+* python2.7
+
+To install the requirements above you could use fancy brew:
+
+```
+brew install python
+```
 
 ## Installation
 
-To contribute to Sulu E-Commerce documentation you first need to install [sphinx](http://sphinx-doc.org/install.html).
+#### Buildout
+
+The buildout script is a very helpful tool to automatically download and install
+all dependencies to your local environment. It also generates scripts for your daily
+use.
+
+Bootstrap with python 2.7:
 
 ```
-    pip install sphinx
-
-    pip install sphinx_rtd_theme
+/opt/local/bin/python2.7 bootstrap.py
 ```
 
-## Build
+Now you can run buildout:
 
 ```
-    make html 
+bin/buildout -N
 ```
+
+## Sphinx
+
+If you have changed the docs run this task to compile your text files to html:
+
+```
+bin/sphinxbuilder
+```
+
+View your local docs in your browser:
+
+```
+bin/docs
+```
+
