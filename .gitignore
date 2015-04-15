@@ -1,4 +1,19 @@
+.DS_Store
+
 # build folder
 _build
 sulu-ecommerce-docs.iml
 .idea
+
+# buildout folders
+eggs/
+bin/
+develop-eggs/
+parts/
+*.egg-info
+.installed.cfg
+
+# Sphinx
+dist/Makefile
+dist/make.bat
+dist/doctrees/
