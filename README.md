@@ -39,7 +39,7 @@ bin/buildout -N
 If you have changed the docs run this task to compile your text files to html:
 
 ```
-bin/sphinxbuilder
+bin/make-docs
 ```
 
 View your local docs in your browser:
