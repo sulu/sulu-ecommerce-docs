@@ -1,6 +1,7 @@
-# sulu-ecommerce-docs
+# Sulu Ecommerce Documentation
 
-Sulu eCommerce Documentation for Developers
+This is the Sulu eCommerce Documentation for Developers. Clone it to your local
+mashine or read the [online docs](http://sulu-ecommerce-docs.readthedocs.org/en/latest/).
 
 ## Requirements
 
@@ -47,4 +48,3 @@ View your local docs in your browser:
 ```
 bin/docs
 ```
-
