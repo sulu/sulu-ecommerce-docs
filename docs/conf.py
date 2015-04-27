@@ -17,6 +17,12 @@ import os
 import shlex
 import sphinx_rtd_theme
 
+from sphinx.highlighting import lexers
+from pygments.lexers.web import PhpLexer
+from pygments.lexers.compiled import CLexer
+
+lexers['varnish4'] = CLexer()
+
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
@@ -73,7 +79,7 @@ language = None
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['_build']
+exclude_patterns = ['_build', '_exts']
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
@@ -100,14 +106,19 @@ pygments_style = 'sphinx'
 #keep_warnings = False
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
-todo_include_todos = False
+#todo_include_todos = False
 
 
 # -- Options for HTML output ----------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'sphinx_rtd_theme'
+on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+if on_rtd:
+    html_theme = 'default'
+else:
+    html_theme = 'sphinx_rtd_theme'
+
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -115,7 +126,11 @@ html_theme = 'sphinx_rtd_theme'
 #html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+if on_rtd:
+    #html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+else:
+    html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -221,8 +236,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'SuluEcommerce.tex', u'Sulu Ecommerce Documentation',
-   u'Sulu Team', 'manual'),
+  ('index', 'SuluEcommerce.tex', 'Sulu Ecommerce Documentation',
+   'Sulu Team', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -251,8 +266,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'suluecommerce', u'Sulu Ecommerce Documentation',
-     [author], 1)
+    ('index', 'suluecommerce', 'Sulu Ecommerce Documentation',
+     ['Sulu Team'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -265,8 +280,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'SuluEcommerce', u'Sulu Ecommerce Documentation',
-   author, 'SuluEcommerce', 'One line description of project.',
+  ('index', 'SuluEcommerce', 'Sulu Ecommerce Documentation',
+   'Sulu Team', 'SuluEcommerce', 'One line description of project.',
    'Miscellaneous'),
 ]
 
