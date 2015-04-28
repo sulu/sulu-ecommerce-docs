@@ -4,9 +4,9 @@ Shop navigation
 Where to find the navigation
 ----------------------------
 
-The shop navigation is defined by content objects in the admin interface. Once a
+The shop navigation is defined by content pages in the admin interface. Once a
 new item is added it can be set as a navigation element in the settings tab. The
-first two levels of of content elements are displayed as parent - child navigation.
+first two levels of content elements are displayed as parent - child navigation.
 
 .. hint:: It is recommended to avoid heavy nested structures. Keep it simple.
 
