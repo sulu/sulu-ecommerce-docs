@@ -20,8 +20,8 @@ Image gallery
 -------------
 
 There is an image gallery on the detail page to display all given product images.
-Default the first image is displayed as a large cover image. For all images there
-is a thumbnails beyond the cover image. By clicking on it the thumbnail is
+By Default, the first image is displayed as a large cover image. For all images
+there is a thumbnails beyond the cover image. By clicking on it, the thumbnail is
 switching place with the cover image. By moving the mouse over the cover image
 it is zoomed in if the image is large enough. If no image exists a fallback image
 is displayed which is not zoomable.

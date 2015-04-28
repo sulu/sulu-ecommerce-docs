@@ -9,8 +9,8 @@ It is designed to help you build any online e-commerce system you need. The main
 goal is to provide an online shop where you can present your products and offer
 the ability to buy certain products.
 
-Sulu E-Commerce for large scale
--------------------------------
+Sulu E-Commerce strategy for large scale usage
+----------------------------------------------
 
 Unlike small B2C shops which usually have to maintain just about one hundred
 products, this strategy is designed for large online shops with thousands

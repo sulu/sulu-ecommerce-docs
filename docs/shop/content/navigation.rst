@@ -41,6 +41,6 @@ Link navigation to categories
 -----------------------------
 
 In order to find products for a specific navigation item you have to link it with
-a category. Therefore visit the admin interface and navigate to the item you want
-to connect with a category. Click the edit button and switch to the *category* tab.
-Now choose one or many categories and save the item.
+a category. Therefore visit the admin interface and navigate to the content page
+you want to connect with a category. Click the edit button and switch to the
+*category* tab. Now choose one or many categories and save the item.
