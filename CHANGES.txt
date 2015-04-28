@@ -1,0 +1,14 @@
+===================
+sulu-ecommerce-docs
+===================
+
+latest
+======
+
+ - added base documentation for shop
+
+ - made changes for readthedocs.org
+
+ - added buildout with spinx
+
+ - init project

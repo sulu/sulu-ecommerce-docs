@@ -5,3 +5,5 @@ Products
    :maxdepth: 2
 
    products
+   detailpage
+   productlist
