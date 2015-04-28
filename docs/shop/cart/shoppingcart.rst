@@ -6,8 +6,8 @@ Cart widget
 
 The cart widget allows a user to put a product into the shopping cart. The widget
 consists of an input field for the quantity and a button to finally add it.
-Quantity must be a valid number therefore this field is validated. If an invalid
-input is made a dezent error is displayed. Default quantity is one. So if the
+Quantity must be a valid number, therefore this field is validated. If an invalid
+input is made a discreet error is displayed. Default quantity is one. So if the
 button is clicked without any other action, one product is added to the shopping
 cart.
 
