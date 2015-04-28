@@ -8,13 +8,13 @@ To provide best performance the product list is provided by elasticsearch.
 Therefore only products which are in the current index can be found in the list.
 To increase the applicability of the list, the basic function to get products is
 a high generalized elasticsearch search function which can be used in many
-different ways. As always the same data strukture is returned by the elasticsearch
+different ways. As always the same data structure is returned by the elasticsearch
 layer we can provide a high level of consistency.
 
 The default list
 ----------------
 
-The default list provides a paginated search result where each item represents a
+The default list provides a batched search result where each item represents a
 real product. The following information is shown if exists:
 
 * Title

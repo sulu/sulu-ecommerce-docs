@@ -4,7 +4,7 @@ Product detail page
 How to reach it
 ---------------
 
-All products detail pages can be opened by browsing ``/products/<productId>``.
+All product detail pages can be opened by browsing ``/products/<productId>``.
 This is the permanent product url. It will be extended by the urlencoded product
 title in order to improve the seo behavoir of the shop.
 
@@ -20,8 +20,8 @@ Image gallery
 -------------
 
 There is an image gallery on the detail page to display all given product images.
-Default the first image is displayed as a large cover image. For All images there
-is a  thumbnails beyond the cover image. By clicking on it this thumbnail is
+Default the first image is displayed as a large cover image. For all images there
+is a thumbnails beyond the cover image. By clicking on it the thumbnail is
 switching place with the cover image. By moving the mouse over the cover image
 it is zoomed in if the image is large enough. If no image exists a fallback image
 is displayed which is not zoomable.
@@ -43,7 +43,7 @@ Cart widget - prices
 --------------------
 
 All product detail pages provide the cart widget which enables the user to add a
-certain product to his shopping cart. The cart widget also displays the prodcut
+certain product to his shopping cart. The cart widget also displays the product
 prices. Prices means that there is generally a basic price, however there could
 also be a scale price.
 
