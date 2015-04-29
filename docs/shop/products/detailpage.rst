@@ -55,13 +55,14 @@ Other supplier widget
 As many different suppliers can offer the same product, there is a *other supplier*
 widget to show the user some more offers for the same product. To detect identical
 products a product must provide a global trading number. To improve the loading
-speed and the query time this list is provided by elasticsearch.
+speed and the query time this list is provided by
+`elasticsearch <https://www.elastic.co/>`_.
 
 Similar products widget
 -----------------------
 
-To help the user find more products he might be interested in there is a very
-useful widget which displays a similar prodcuts list. This feature is implemented
-by an *elasticsearch more like this* query which compares the current product
-with other products in the index. If products with a similarity are detected they
-are returned and displayed.
+For helping the user to find more products, there is a very useful widget which
+displays a list of similar prodcuts. This feature is implemented by an
+*elasticsearch more like this* query which compares the current product with
+other products in the index. If products with a similarity are detected they are
+returned and displayed.
