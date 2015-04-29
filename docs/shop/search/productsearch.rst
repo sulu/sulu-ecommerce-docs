@@ -14,10 +14,10 @@ Search widget
 -------------
 
 The search widget is one of the main parts of each shop. It helps the user to
-find products and more. If the user starts typing additional ajax requests are
+find products and more. If the user starts typing, additional ajax requests are
 placed in the background asynchronously to display suggestions. Once you click on
-a suggestion you are redirected to the product detail page. If you just type in
-a query string and hit enter a fulltext search is placed and matching products
+a suggestion, you are redirected to the product detail page. If you just type in
+a query string and hit enter, a fulltext search is placed and matching products
 are returned in a batched list.
 
 Prefilter Categories

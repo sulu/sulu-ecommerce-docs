@@ -1,15 +1,15 @@
 Product list
 ============
 
-Where do the data come from
----------------------------
+Where does the data come from
+-----------------------------
 
 To provide best performance the product list is provided by elasticsearch.
 Therefore only products which are in the current index can be found in the list.
 To increase the applicability of the list, the basic function to get products is
 a high generalized elasticsearch search function which can be used in many
-different ways. As always the same data structure is returned by the elasticsearch
-layer we can provide a high level of consistency.
+different ways. Since always the same data structure is returned by the
+elasticsearch layer, we can provide a high level of consistency.
 
 The default list
 ----------------
@@ -30,7 +30,7 @@ A click on a single item leads to the product detail page.
 Usage
 -----
 
-Products lists currently occur for:
+Currently product lists are shown at:
 
 * Filtered products for category navigation
 * Filtered products for live product search
