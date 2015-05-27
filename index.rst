@@ -1,0 +1,635 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+  <id>16</id>
+  <number><![CDATA[00016]]></number>
+  <created><![CDATA[2015-05-06T10:45:34+0200]]></created>
+  <changed><![CDATA[2015-05-06T10:46:24+0200]]></changed>
+  <sessionId><![CDATA[oca6nsbgn6q3vl7n5v8m89f1g6]]></sessionId>
+  <bitmaskStatus>5</bitmaskStatus>
+  <status>
+    <id>4</id>
+    <status><![CDATA[Bestätigt]]></status>
+  </status>
+  <type>
+    <id>1</id>
+    <type><![CDATA[Manuell]]></type>
+  </type>
+  <currencyCode><![CDATA[EUR]]></currencyCode>
+  <customerName><![CDATA[Loser Bergbahnen GmbH & Co KG]]></customerName>
+  <termsOfPaymentContent><![CDATA[fdssa]]></termsOfPaymentContent>
+  <termsOfDeliveryContent><![CDATA[asdf]]></termsOfDeliveryContent>
+  <costCentre><![CDATA[k]]></costCentre>
+  <commission><![CDATA[c]]></commission>
+  <desiredDeliveryDate><![CDATA[2015-05-06T00:00:00+0200]]></desiredDeliveryDate>
+  <taxfree>true</taxfree>
+  <customerAccount>
+    <entry>11</entry>
+    <entry><![CDATA[Loser Bergbahnen GmbH & Co KG]]></entry>
+  </customerAccount>
+  <customerContact>
+    <entry>2181</entry>
+    <entry><![CDATA[Kurt Reiter]]></entry>
+  </customerContact>
+  <responsibleContact>
+    <entry>5183</entry>
+    <entry><![CDATA[Roland Niedermayr]]></entry>
+  </responsibleContact>
+  <items>
+    <entry>
+      <id>50</id>
+      <name><![CDATA[Alto Filtersack 29739 (Sq450-11 Sq450-21)  (Pkt.=5 Stk.)]]></name>
+      <number><![CDATA[10696705]]></number>
+      <created><![CDATA[2015-05-06T10:46:24+0200]]></created>
+      <changed><![CDATA[2015-05-06T10:46:24+0200]]></changed>
+      <changer>
+        <entry>1</entry>
+      </changer>
+      <creator>
+        <entry>1</entry>
+      </creator>
+      <quantity>2</quantity>
+      <quantityUnit><![CDATA[Packung]]></quantityUnit>
+      <useProductsPrice>false</useProductsPrice>
+      <tax>0</tax>
+      <price>0.01</price>
+      <priceFormatted><![CDATA[0,01]]></priceFormatted>
+      <totalNetPriceFormatted><![CDATA[0,02]]></totalNetPriceFormatted>
+      <totalNetPrice>0.02</totalNetPrice>
+      <discount>0</discount>
+      <description><![CDATA[Filtersack. Zubehör Sauger Industrie und Hobby. passend zu Typ: Sq 450-11/Sq 450-21]]></description>
+      <bitmaskStatus>36</bitmaskStatus>
+      <supplierName><![CDATA[Schmidt´s Handels AG]]></supplierName>
+      <product>
+        <id>272940</id>
+        <name><![CDATA[Alto Filtersack 29739 (Sq450-11 Sq450-21)  (Pkt.=5 Stk.)]]></name>
+        <isDeprecated>false</isDeprecated>
+        <minimumOrderQuantity>1</minimumOrderQuantity>
+        <deliveryTime>0</deliveryTime>
+        <orderContentRatio>1</orderContentRatio>
+        <shortDescription><![CDATA[Filtersack. Zubehör Sauger Industrie und Hobby]]></shortDescription>
+        <longDescription><![CDATA[Filtersack. Zubehör Sauger Industrie und Hobby. passend zu Typ: Sq 450-11/Sq 450-21]]></longDescription>
+        <number><![CDATA[10696705]]></number>
+        <internalItemNumber><![CDATA[S-8181-10696705]]></internalItemNumber>
+        <supplier>
+          <entry>8181</entry>
+          <entry><![CDATA[Schmidt´s Handels AG]]></entry>
+        </supplier>
+        <cost><![CDATA[0.00]]></cost>
+        <type>
+          <id>1</id>
+          <name><![CDATA[Produkt]]></name>
+        </type>
+        <status>
+          <id>2</id>
+          <name><![CDATA[eingereicht]]></name>
+        </status>
+        <deliveryStatus>
+          <id>1</id>
+          <name><![CDATA[lieferbar]]></name>
+        </deliveryStatus>
+        <orderUnit>
+          <id>2</id>
+          <name><![CDATA[Packung]]></name>
+        </orderUnit>
+        <contentUnit>
+          <id>2</id>
+          <name><![CDATA[Packung]]></name>
+        </contentUnit>
+        <taxClass>
+          <id>1</id>
+          <name><![CDATA[Regelsteuersatz]]></name>
+        </taxClass>
+        <prices>
+          <entry>
+            <id>391656</id>
+            <price>0.01</price>
+            <currency>
+              <id>2</id>
+              <name><![CDATA[Euro]]></name>
+              <number><![CDATA[978]]></number>
+              <code><![CDATA[EUR]]></code>
+            </currency>
+            <minimumQuantity><![CDATA[0]]></minimumQuantity>
+          </entry>
+        </prices>
+        <categories>
+          <entry>
+            <locale><![CDATA[de]]></locale>
+            <id>76</id>
+            <key><![CDATA[1]]></key>
+            <name><![CDATA[Lifte, Seilbahnen und Gebäude]]></name>
+            <creator><![CDATA[Oliver Pretz]]></creator>
+            <changer><![CDATA[Roland Niedermayr]]></changer>
+            <created><![CDATA[2014-07-25T10:41:38+0200]]></created>
+            <changed><![CDATA[2015-03-25T11:17:59+0100]]></changed>
+            </entry>
+          <entry>
+            <locale><![CDATA[de]]></locale>
+            <id>84</id>
+            <name><![CDATA[Ersatzteile Seilbahn u. Lifte]]></name>
+            <creator><![CDATA[Oliver Pretz]]></creator>
+            <changer><![CDATA[Oliver Pretz]]></changer>
+            <created><![CDATA[2014-07-25T10:56:50+0200]]></created>
+            <changed><![CDATA[2015-03-19T08:39:46+0100]]></changed>
+            </entry>
+          <entry>
+            <locale><![CDATA[de]]></locale>
+            <id>86</id>
+            <name><![CDATA[Motoren und Getriebe]]></name>
+            <creator><![CDATA[Oliver Pretz]]></creator>
+            <changer><![CDATA[Oliver Pretz]]></changer>
+            <created><![CDATA[2014-07-25T10:58:00+0200]]></created>
+            <changed><![CDATA[2015-03-19T08:39:46+0100]]></changed>
+          </entry>
+        </categories>
+        <media>
+          <entry>
+            <id>55431</id>
+            <locale><![CDATA[de]]></locale>
+            <collection>46</collection>
+            <size>11456</size>
+            <mimeType><![CDATA[image/jpeg]]></mimeType>
+            <title><![CDATA[10696712.jpg]]></title>
+            <version>1</version>
+            <versions>
+              <entry>
+                <entry><![CDATA[/media/55431/download/10696712.jpg?v=1]]></entry>
+                <entry>1</entry>
+                <entry><![CDATA[10696712.jpg]]></entry>
+                <entry><![CDATA[2015-04-14T17:19:13+0200]]></entry>
+                <entry><![CDATA[2015-04-14T17:19:13+0200]]></entry>
+              </entry>
+            </versions>
+            <name><![CDATA[10696712.jpg]]></name>
+            <type>
+              <name><![CDATA[image]]></name>
+              <id>2</id>
+            </type>
+            <isImage>true</isImage>
+            <isVideo>false</isVideo>
+            <isAudio>false</isAudio>
+            <isDocument>false</isDocument>
+            <storageOptions><![CDATA[{"segment":"09","fileName":"10696712.jpg"}]]></storageOptions>
+            <thumbnails>
+              <entry><![CDATA[/uploads/media/170x170/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/200x200/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/50x50/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/150x100/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/70x70/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/square140/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/square740/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/770x350/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/770x485/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/870x130/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/770x115/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/270x550/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/270x270/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/640x480/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/240x240/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/1090x660/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/1090x400/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/400x225/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/889x500/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/340x260/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/1280x/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/900x130/01/55431-10696712.jpg?v=1]]></entry>
+            </thumbnails>
+            <url><![CDATA[/media/55431/download/10696712.jpg?v=1]]></url>
+            <changed><![CDATA[2015-04-14T17:19:13+0200]]></changed>
+            <created><![CDATA[2015-04-14T17:19:13+0200]]></created>
+            <downloadCounter>0</downloadCounter>
+          </entry>
+        </media>
+        <images>
+          <entry>
+            <id>55431</id>
+            <locale><![CDATA[de]]></locale>
+            <collection>46</collection>
+            <size>11456</size>
+            <mimeType><![CDATA[image/jpeg]]></mimeType>
+            <title><![CDATA[10696712.jpg]]></title>
+            <version>1</version>
+            <versions>
+              <entry>
+                <entry><![CDATA[/media/55431/download/10696712.jpg?v=1]]></entry>
+                <entry>1</entry>
+                <entry><![CDATA[10696712.jpg]]></entry>
+                <entry><![CDATA[2015-04-14T17:19:13+0200]]></entry>
+                <entry><![CDATA[2015-04-14T17:19:13+0200]]></entry>
+              </entry>
+            </versions>
+            <name><![CDATA[10696712.jpg]]></name>
+            <type>
+              <name><![CDATA[image]]></name>
+              <id>2</id>
+            </type>
+            <isImage>true</isImage>
+            <isVideo>false</isVideo>
+            <isAudio>false</isAudio>
+            <isDocument>false</isDocument>
+            <storageOptions><![CDATA[{"segment":"09","fileName":"10696712.jpg"}]]></storageOptions>
+            <thumbnails>
+              <entry><![CDATA[/uploads/media/170x170/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/200x200/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/50x50/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/150x100/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/70x70/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/square140/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/square740/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/770x350/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/770x485/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/870x130/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/770x115/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/270x550/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/270x270/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/640x480/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/240x240/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/1090x660/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/1090x400/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/400x225/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/889x500/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/340x260/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/1280x/01/55431-10696712.jpg?v=1]]></entry>
+              <entry><![CDATA[/uploads/media/900x130/01/55431-10696712.jpg?v=1]]></entry>
+            </thumbnails>
+            <url><![CDATA[/media/55431/download/10696712.jpg?v=1]]></url>
+            <changed><![CDATA[2015-04-14T17:19:13+0200]]></changed>
+            <created><![CDATA[2015-04-14T17:19:13+0200]]></created>
+            <downloadCounter>0</downloadCounter>
+          </entry>
+        </images>
+        <areGrossPrices>false</areGrossPrices>
+        <isContractArticle>false</isContractArticle>
+        <isNormArticle>false</isNormArticle>
+        <link rel="self" href="/api/admin/products/272940"/>
+      </product>
+      <priceChanged>false</priceChanged>
+    </entry>
+  </items>
+  <supplierItems>
+    <entry>
+      <entry>8181</entry>
+      <entry><![CDATA[Schmidt´s Handels AG]]></entry>
+      <entry>
+        <entry>
+          <id>50</id>
+          <name><![CDATA[Alto Filtersack 29739 (Sq450-11 Sq450-21)  (Pkt.=5 Stk.)]]></name>
+          <number><![CDATA[10696705]]></number>
+          <created><![CDATA[2015-05-06T10:46:24+0200]]></created>
+          <changed><![CDATA[2015-05-06T10:46:24+0200]]></changed>
+          <changer>
+            <entry>1</entry>
+          </changer>
+          <creator>
+            <entry>1</entry>
+          </creator>
+          <quantity>2</quantity>
+          <quantityUnit><![CDATA[Packung]]></quantityUnit>
+          <useProductsPrice>false</useProductsPrice>
+          <tax>0</tax>
+          <price>0.01</price>
+          <priceFormatted><![CDATA[0,01]]></priceFormatted>
+          <totalNetPriceFormatted><![CDATA[0,02]]></totalNetPriceFormatted>
+          <totalNetPrice>0.02</totalNetPrice>
+          <discount>0</discount>
+          <description><![CDATA[Filtersack. Zubehör Sauger Industrie und Hobby. passend zu Typ: Sq 450-11/Sq 450-21]]></description>
+          <bitmaskStatus>36</bitmaskStatus>
+          <supplierName><![CDATA[Schmidt´s Handels AG]]></supplierName>
+          <product>
+            <id>272940</id>
+            <name><![CDATA[Alto Filtersack 29739 (Sq450-11 Sq450-21)  (Pkt.=5 Stk.)]]></name>
+            <isDeprecated>false</isDeprecated>
+            <minimumOrderQuantity>1</minimumOrderQuantity>
+            <deliveryTime>0</deliveryTime>
+            <orderContentRatio>1</orderContentRatio>
+            <shortDescription><![CDATA[Filtersack. Zubehör Sauger Industrie und Hobby]]></shortDescription>
+            <longDescription><![CDATA[Filtersack. Zubehör Sauger Industrie und Hobby. passend zu Typ: Sq 450-11/Sq 450-21]]></longDescription>
+            <number><![CDATA[10696705]]></number>
+            <internalItemNumber><![CDATA[S-8181-10696705]]></internalItemNumber>
+            <supplier>
+              <entry>8181</entry>
+              <entry><![CDATA[Schmidt´s Handels AG]]></entry>
+            </supplier>
+            <cost><![CDATA[0.00]]></cost>
+            <type>
+              <id>1</id>
+              <name><![CDATA[Produkt]]></name>
+            </type>
+            <status>
+              <id>2</id>
+              <name><![CDATA[eingereicht]]></name>
+            </status>
+            <deliveryStatus>
+              <id>1</id>
+              <name><![CDATA[lieferbar]]></name>
+            </deliveryStatus>
+            <orderUnit>
+              <id>2</id>
+              <name><![CDATA[Packung]]></name>
+            </orderUnit>
+            <contentUnit>
+              <id>2</id>
+              <name><![CDATA[Packung]]></name>
+            </contentUnit>
+            <taxClass>
+              <id>1</id>
+              <name><![CDATA[Regelsteuersatz]]></name>
+            </taxClass>
+            <prices>
+              <entry>
+                <id>391656</id>
+                <price>0.01</price>
+                <currency>
+                  <id>2</id>
+                  <name><![CDATA[Euro]]></name>
+                  <number><![CDATA[978]]></number>
+                  <code><![CDATA[EUR]]></code>
+                </currency>
+                <minimumQuantity><![CDATA[0]]></minimumQuantity>
+              </entry>
+            </prices>
+            <categories>
+              <entry>
+                <locale><![CDATA[de]]></locale>
+                <id>76</id>
+                <key><![CDATA[1]]></key>
+                <name><![CDATA[Lifte, Seilbahnen und Gebäude]]></name>
+                <creator><![CDATA[Oliver Pretz]]></creator>
+                <changer><![CDATA[Roland Niedermayr]]></changer>
+                <created><![CDATA[2014-07-25T10:41:38+0200]]></created>
+                <changed><![CDATA[2015-03-25T11:17:59+0100]]></changed>
+                </entry>
+                  <entry>
+                    <locale><![CDATA[de]]></locale>
+                    <id>128</id>
+                    <name><![CDATA[Seile und Zubehör]]></name>
+                    <creator><![CDATA[Oliver Pretz]]></creator>
+                    <changer><![CDATA[Oliver Pretz]]></changer>
+                    <created><![CDATA[2014-07-28T13:53:01+0200]]></created>
+                    <changed><![CDATA[2015-03-19T08:39:46+0100]]></changed>
+                    </entry>
+                  <entry>
+                    <locale><![CDATA[de]]></locale>
+                    <id>143</id>
+                    <name><![CDATA[Förderbänder, Kleinskilifte Karuselle]]></name>
+                    <creator><![CDATA[Oliver Pretz]]></creator>
+                    <changer><![CDATA[Oliver Pretz]]></changer>
+                    <created><![CDATA[2014-07-28T14:43:01+0200]]></created>
+                    <changed><![CDATA[2015-03-19T08:39:46+0100]]></changed>
+                  </entry>
+                  <entry>
+                    <locale><![CDATA[de]]></locale>
+                    <id>144</id>
+                    <name><![CDATA[Brandschutz]]></name>
+                    <creator><![CDATA[Oliver Pretz]]></creator>
+                    <changer><![CDATA[Oliver Pretz]]></changer>
+                    <created><![CDATA[2014-07-28T14:43:27+0200]]></created>
+                    <changed><![CDATA[2015-03-19T08:39:46+0100]]></changed>
+                    </entry>
+                  <entry>
+                    <locale><![CDATA[de]]></locale>
+                    <id>150</id>
+                    <name><![CDATA[Außenanlagen]]></name>
+                    <creator><![CDATA[Oliver Pretz]]></creator>
+                    <changer><![CDATA[Oliver Pretz]]></changer>
+                    <created><![CDATA[2014-07-28T14:45:14+0200]]></created>
+                    <changed><![CDATA[2015-03-19T08:39:46+0100]]></changed>
+                  </entry>
+                  <entry>
+                    <locale><![CDATA[de]]></locale>
+                    <id>164</id>
+                    <name><![CDATA[Gebäude]]></name>
+                    <creator><![CDATA[Oliver Pretz]]></creator>
+                    <changer><![CDATA[Oliver Pretz]]></changer>
+                    <created><![CDATA[2014-07-28T14:49:29+0200]]></created>
+                    <changed><![CDATA[2015-03-19T08:39:46+0100]]></changed>
+                  </entry>
+                  <entry>
+                    <locale><![CDATA[de]]></locale>
+                    <id>325</id>
+                    <name><![CDATA[Versicherungen]]></name>
+                    <creator><![CDATA[Oliver Pretz]]></creator>
+                    <changer><![CDATA[Oliver Pretz]]></changer>
+                    <created><![CDATA[2014-07-28T15:58:12+0200]]></created>
+                    <changed><![CDATA[2015-03-19T08:39:46+0100]]></changed>
+                  </entry>
+                  <entry>
+                    <locale><![CDATA[de]]></locale>
+                    <id>326</id>
+                    <name><![CDATA[Strom, Energielieferant]]></name>
+                    <creator><![CDATA[Oliver Pretz]]></creator>
+                    <changer><![CDATA[Oliver Pretz]]></changer>
+                    <created><![CDATA[2014-07-28T15:58:30+0200]]></created>
+                    <changed><![CDATA[2015-03-19T08:39:46+0100]]></changed>
+                  </entry>
+                </children>
+              </entry>
+              <entry>
+                <locale><![CDATA[de]]></locale>
+                <id>84</id>
+                <name><![CDATA[Ersatzteile Seilbahn u. Lifte]]></name>
+                <creator><![CDATA[Oliver Pretz]]></creator>
+                <changer><![CDATA[Oliver Pretz]]></changer>
+                <created><![CDATA[2014-07-25T10:56:50+0200]]></created>
+                <changed><![CDATA[2015-03-19T08:39:46+0100]]></changed>
+              </entry>
+              <entry>
+                <locale><![CDATA[de]]></locale>
+                <id>86</id>
+                <name><![CDATA[Motoren und Getriebe]]></name>
+                <creator><![CDATA[Oliver Pretz]]></creator>
+                <changer><![CDATA[Oliver Pretz]]></changer>
+                <created><![CDATA[2014-07-25T10:58:00+0200]]></created>
+                <changed><![CDATA[2015-03-19T08:39:46+0100]]></changed>
+              </entry>
+            </categories>
+            <media>
+              <entry>
+                <id>55431</id>
+                <locale><![CDATA[de]]></locale>
+                <collection>46</collection>
+                <size>11456</size>
+                <mimeType><![CDATA[image/jpeg]]></mimeType>
+                <title><![CDATA[10696712.jpg]]></title>
+                <version>1</version>
+                <versions>
+                  <entry>
+                    <entry><![CDATA[/media/55431/download/10696712.jpg?v=1]]></entry>
+                    <entry>1</entry>
+                    <entry><![CDATA[10696712.jpg]]></entry>
+                    <entry><![CDATA[2015-04-14T17:19:13+0200]]></entry>
+                    <entry><![CDATA[2015-04-14T17:19:13+0200]]></entry>
+                  </entry>
+                </versions>
+                <name><![CDATA[10696712.jpg]]></name>
+                <type>
+                  <name><![CDATA[image]]></name>
+                  <id>2</id>
+                </type>
+                <isImage>true</isImage>
+                <isVideo>false</isVideo>
+                <isAudio>false</isAudio>
+                <isDocument>false</isDocument>
+                <storageOptions><![CDATA[{"segment":"09","fileName":"10696712.jpg"}]]></storageOptions>
+                <thumbnails>
+                  <entry><![CDATA[/uploads/media/170x170/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/200x200/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/50x50/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/150x100/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/70x70/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/square140/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/square740/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/770x350/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/770x485/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/870x130/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/770x115/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/270x550/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/270x270/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/640x480/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/240x240/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/1090x660/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/1090x400/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/400x225/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/889x500/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/340x260/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/1280x/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/900x130/01/55431-10696712.jpg?v=1]]></entry>
+                </thumbnails>
+                <url><![CDATA[/media/55431/download/10696712.jpg?v=1]]></url>
+                <changed><![CDATA[2015-04-14T17:19:13+0200]]></changed>
+                <created><![CDATA[2015-04-14T17:19:13+0200]]></created>
+                <downloadCounter>0</downloadCounter>
+              </entry>
+            </media>
+            <images>
+              <entry>
+                <id>55431</id>
+                <locale><![CDATA[de]]></locale>
+                <collection>46</collection>
+                <size>11456</size>
+                <mimeType><![CDATA[image/jpeg]]></mimeType>
+                <title><![CDATA[10696712.jpg]]></title>
+                <version>1</version>
+                <versions>
+                  <entry>
+                    <entry><![CDATA[/media/55431/download/10696712.jpg?v=1]]></entry>
+                    <entry>1</entry>
+                    <entry><![CDATA[10696712.jpg]]></entry>
+                    <entry><![CDATA[2015-04-14T17:19:13+0200]]></entry>
+                    <entry><![CDATA[2015-04-14T17:19:13+0200]]></entry>
+                  </entry>
+                </versions>
+                <name><![CDATA[10696712.jpg]]></name>
+                <type>
+                  <name><![CDATA[image]]></name>
+                  <id>2</id>
+                </type>
+                <isImage>true</isImage>
+                <isVideo>false</isVideo>
+                <isAudio>false</isAudio>
+                <isDocument>false</isDocument>
+                <storageOptions><![CDATA[{"segment":"09","fileName":"10696712.jpg"}]]></storageOptions>
+                <thumbnails>
+                  <entry><![CDATA[/uploads/media/170x170/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/200x200/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/50x50/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/150x100/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/70x70/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/square140/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/square740/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/770x350/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/770x485/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/870x130/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/770x115/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/270x550/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/270x270/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/640x480/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/240x240/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/1090x660/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/1090x400/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/400x225/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/889x500/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/340x260/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/1280x/01/55431-10696712.jpg?v=1]]></entry>
+                  <entry><![CDATA[/uploads/media/900x130/01/55431-10696712.jpg?v=1]]></entry>
+                </thumbnails>
+                <url><![CDATA[/media/55431/download/10696712.jpg?v=1]]></url>
+                <changed><![CDATA[2015-04-14T17:19:13+0200]]></changed>
+                <created><![CDATA[2015-04-14T17:19:13+0200]]></created>
+                <downloadCounter>0</downloadCounter>
+              </entry>
+            </images>
+            <areGrossPrices>false</areGrossPrices>
+            <isContractArticle>false</isContractArticle>
+            <isNormArticle>false</isNormArticle>
+            <link rel="self" href="/api/admin/products/272940"/>
+          </product>
+          <priceChanged>false</priceChanged>
+        </entry>
+      </entry>
+      <entry>0.02</entry>
+      <entry><![CDATA[0,02]]></entry>
+    </entry>
+  </supplierItems>
+  <deliveryAddress>
+    <id>31</id>
+    <salutation><![CDATA[0]]></salutation>
+    <firstName><![CDATA[Kurt]]></firstName>
+    <lastName><![CDATA[Reiter]]></lastName>
+    <accountName><![CDATA[Loser Bergbahnen GmbH & Co KG]]></accountName>
+    <street><![CDATA[Lichtersberg]]></street>
+    <addition><![CDATA[]]></addition>
+    <number><![CDATA[84]]></number>
+    <city><![CDATA[Altaussee]]></city>
+    <zip><![CDATA[8992]]></zip>
+    <state><![CDATA[Steiermark]]></state>
+    <country><![CDATA[Austria]]></country>
+    <uid><![CDATA[ATU64381467]]></uid>
+    <phone><![CDATA[]]></phone>
+    <postboxCity><![CDATA[]]></postboxCity>
+    <postboxNumber><![CDATA[]]></postboxNumber>
+    <postboxPostcode><![CDATA[]]></postboxPostcode>
+    <email><![CDATA[]]></email>
+  </deliveryAddress>
+  <invoiceAddress>
+    <id>32</id>
+    <salutation><![CDATA[0]]></salutation>
+    <firstName><![CDATA[Kurt]]></firstName>
+    <lastName><![CDATA[Reiter]]></lastName>
+    <accountName><![CDATA[Loser Bergbahnen GmbH & Co KG]]></accountName>
+    <street><![CDATA[Lichtersberg]]></street>
+    <addition><![CDATA[]]></addition>
+    <number><![CDATA[84]]></number>
+    <city><![CDATA[Altaussee]]></city>
+    <zip><![CDATA[8992]]></zip>
+    <state><![CDATA[Steiermark]]></state>
+    <country><![CDATA[Austria]]></country>
+    <uid><![CDATA[ATU64381467]]></uid>
+    <phone><![CDATA[]]></phone>
+    <postboxCity><![CDATA[]]></postboxCity>
+    <postboxNumber><![CDATA[]]></postboxNumber>
+    <postboxPostcode><![CDATA[]]></postboxPostcode>
+    <email><![CDATA[]]></email>
+  </invoiceAddress>
+  <orderNumber><![CDATA[a]]></orderNumber>
+  <totalNetPrice>0.02</totalNetPrice>
+  <totalNetPriceFormatted><![CDATA[0,02]]></totalNetPriceFormatted>
+  <deliveryCostFormatted><![CDATA[0,00]]></deliveryCostFormatted>
+  <orderDate><![CDATA[2015-05-06T00:00:00+0200]]></orderDate>
+  <workflows>
+    <entry>
+      <entry><![CDATA[order]]></entry>
+      <entry><![CDATA[salesorder.orders.edit]]></entry>
+      <entry><![CDATA[sulu.salesorder.order.edit.clicked]]></entry>
+    </entry>
+    <entry>
+      <entry><![CDATA[shipping]]></entry>
+      <entry><![CDATA[salesorder.orders.shipping.create]]></entry>
+      <entry><![CDATA[sales/orders/edit:16/shippings/add]]></entry>
+    </entry>
+  </workflows>
+  <hasChangedPrices>false</hasChangedPrices>
+  <itemsChanged>false</itemsChanged>
+  <link rel="self" href="/api/admin/orders/16"/>
+</result>
