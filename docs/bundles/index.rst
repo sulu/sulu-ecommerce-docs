@@ -1,5 +1,5 @@
-Sulu Online Shop
-================
+Bundles
+=======
 
 .. toctree::
    :maxdepth: 2

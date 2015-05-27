@@ -5,3 +5,4 @@ Welcome to the Sulu E-Commerce documentation!
    :maxdepth: 2
 
    shop/index
+   bundles/index

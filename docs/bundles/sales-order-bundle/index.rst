@@ -1,4 +1,4 @@
-Sales Order Bundle
+Sales-Order-Bundle
 ==================
 
 Description
