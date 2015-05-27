@@ -1,5 +1,5 @@
-Products
-========
+PDF
+===
 
 .. toctree::
    :maxdepth: 2

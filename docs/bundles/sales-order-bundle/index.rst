@@ -9,11 +9,11 @@ Bundle for handling sales orders.
 Order PDF
 ---------
 
-An order confirmation pdf can be viewed in the sidebar of any confirmed order
-in sulu's administration interface or will be sent by email when a shop-order
-is made.
-The PDF templates can be set in the configuration (see 'Configuration' section
-for further details)
+An order confirmation pdf can be downloaded by clicking the pdf icon in the
+sidebar of any confirmed order in sulu's administration interface and will be
+sent by email when a shop-order is made.
+The PDF templates can be set in the configuration (see `Configuration`_ section
+for further details).
 
 Configuration
 -------------
