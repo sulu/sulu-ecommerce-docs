@@ -10,3 +10,4 @@ Sulu Online Shop
    search/index
    products/index
    cart/index
+   pdf/index
