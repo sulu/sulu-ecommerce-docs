@@ -29,4 +29,5 @@ Default Configuration:
             header: SuluSalesCoreBundle:Pdf:pdf-base-header.html.twig
             footer: SuluSalesCoreBundle:Pdf:pdf-base-footer.html.twig
             macros: SuluSalesCoreBundle:Pdf:pdf-macros.html.twig
+    shop_owner_email: null
 

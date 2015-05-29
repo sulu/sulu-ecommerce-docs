@@ -1,5 +1,8 @@
-Custom Order Confirmation PDF Templates
-=======================================
+Custom PDF Templates
+====================
+
+Order Confirmation
+------------------
 
 Defining a custom order-confirmation pdf template is really easy. First define
 your twig templates as you usually would. This can be done for the
@@ -38,6 +41,3 @@ possible information provided by an order:
 In the 'confirmation' file you can define blocks of an order-confirmation.
 The 'macros' template contains macro functionality e.g. for displaying the
 items.
-
-
-
