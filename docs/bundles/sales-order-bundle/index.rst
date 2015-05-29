@@ -24,6 +24,7 @@ Default Configuration:
 
     sulu_sales_order:
         pdf_templates:
+            confirmation: SuluSalesOrderBundle:Pdf:order.confirmation.pdf.html.twig
             base: SuluSalesCoreBundle:Pdf:pdf-base.html.twig
             header: SuluSalesCoreBundle:Pdf:pdf-base-header.html.twig
             footer: SuluSalesCoreBundle:Pdf:pdf-base-footer.html.twig

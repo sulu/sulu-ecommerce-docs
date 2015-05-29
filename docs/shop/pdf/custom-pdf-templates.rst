@@ -4,6 +4,7 @@ Custom Order Confirmation PDF Templates
 Defining a custom order-confirmation pdf template is really easy. First define
 your twig templates as you usually would. This can be done for the
 
+- confirmation
 - header
 - footer
 - base and
@@ -34,7 +35,7 @@ possible information provided by an order:
 - productlist_footer_shippingcost_value
 - productlist_footer_total_value
 
-
+In the 'confirmation' file you can define blocks of an order-confirmation.
 The 'macros' template contains macro functionality e.g. for displaying the
 items.
 
