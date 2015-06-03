@@ -45,7 +45,7 @@ Cart widget - prices
 All product detail pages provide the cart widget which enables the user to add a
 certain product to his shopping cart. The cart widget also displays the product
 prices. Prices means that there is generally a basic price, however there could
-also be a scale price.
+also be a scale price or a special price.
 
 Check the :doc:`../cart/shoppingcart` section for more information.
 
