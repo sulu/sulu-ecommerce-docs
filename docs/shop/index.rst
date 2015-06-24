@@ -12,4 +12,5 @@ Sulu Online Shop
    cart/index
    order/index
    favorites/index
+   companysettings/index
 
