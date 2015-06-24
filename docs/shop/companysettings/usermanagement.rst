@@ -8,11 +8,11 @@ required.
 User List
 ---------
 
-The user list represents a list of users who are part of the same account.
-The list offers some basic information such as the first name and the last
-name of the user, as well as the email address and the users order ceiling.
-To quickly see which user is disabled or locked, such users are differently
-displayed in the list.
+The user list represents a list of users who are part of the same account as
+the shop admin user. The list offers some basic information such as the first
+name and the last name of the user, as well as the email address and the users
+order ceiling. To quickly see which user is disabled or locked such users are
+differently displayed in the list.
 
 Add User
 --------

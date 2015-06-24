@@ -5,3 +5,4 @@ Company settings
    :maxdepth: 2
 
    usermanagement
+   orderlimits
