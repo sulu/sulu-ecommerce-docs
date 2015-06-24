@@ -5,6 +5,8 @@ sulu-ecommerce-docs
 latest
 ======
 
+ - added documentation for company settings
+
  - added base documentation for shop
 
  - made changes for readthedocs.org
