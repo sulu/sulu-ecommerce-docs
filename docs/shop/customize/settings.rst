@@ -7,7 +7,9 @@ file located at `app/config/shopowner.yml`. It can be enhanced as needed.
 Be careful with deleting properties from this file and make sure you edit it
 carefully.
 
-A basic config eg. looks like this::
+A basic config eg. looks like this
+
+.. code-block:: yaml
 
     parameters:
         shopowner:
