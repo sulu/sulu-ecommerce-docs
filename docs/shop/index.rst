@@ -5,6 +5,7 @@ Sulu Online Shop
    :maxdepth: 2
 
    introduction/index
+   customize/index
    accountsettings/index
    content/index
    search/index
