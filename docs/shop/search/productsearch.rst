@@ -10,6 +10,32 @@ api which provides functionallity to be used in e.g. a typeahead. The main searc
 lists all products which match for a given query string. This result can also be
 filtered by additional information such as the category or the supplier.
 
+Configuration
+-------------
+
+Weight
+******
+
+Each product consitsts of multiple properties e.g. title, description, categories.title
+and so on. The fields that has to be considered for a search must be defined as list under
+the 'search_fields' section in the `config.yml`. Additionaly it's possible to define a weight, which
+indicates the relevance for the specific field among the other fields for the search result.
+To increase the boost for an appropriate property it can be postfixed with '^' followed by a
+number (factor).
+
+It is also possible to add additional term queries to the search.
+
+An example of a valid configuration is given below::
+
+    bundle_name:
+        search_fields:
+            - title^10
+            - description^5
+            - categories.title
+        term_queries:
+            - {field: isContractArticle, value: true, parameters: {boost: 0.5}, type: 'should'} 
+
+
 Search widget
 -------------
 
