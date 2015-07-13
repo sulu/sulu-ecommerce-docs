@@ -14,4 +14,5 @@ Sulu Online Shop
    order/index
    favorites/index
    companysettings/index
+   suppliers/index
 

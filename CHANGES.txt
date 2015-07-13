@@ -7,6 +7,8 @@ latest
 
  - added documentation for search config
 
+ - added supplier list and detail page docu
+
  - added documentation for shopowner config and updated favorites
 
  - added documentation for company settings
