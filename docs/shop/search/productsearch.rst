@@ -13,9 +13,6 @@ filtered by additional information such as the category or the supplier.
 Configuration
 -------------
 
-Weight
-******
-
 Each product consitsts of multiple properties e.g. title, description, categories.title
 and so on. The fields that has to be considered for a search must be defined as list under
 the 'search_fields' section in the `config.yml`. Additionaly it's possible to define a weight, which
@@ -34,7 +31,6 @@ An example of a valid configuration is given below::
             - categories.title
         term_queries:
             - {field: isContractArticle, value: true, parameters: {boost: 0.5}, type: 'should'} 
-
 
 Search widget
 -------------
